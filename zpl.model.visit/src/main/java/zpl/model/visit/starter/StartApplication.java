@@ -11,7 +11,7 @@ import org.springframework.context.annotation.ComponentScan;
  *
  */
 @SpringBootApplication
-@ComponentScan(basePackages = { "com.*" })
+@ComponentScan(basePackages = { "zpl.*" })
 public class StartApplication {
 
 	public static void main(String[] args) {
